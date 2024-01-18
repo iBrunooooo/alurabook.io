@@ -1,0 +1,16 @@
+Para saber mais: aprofunde em Media Queries
+
+As media queries definem condições para que o CSS seja utilizado em cenários específicos. Se essas condições forem aprovadas, ou seja, se o dispositivo se adequar a todas as condições estabelecidas, o CSS será aplicado. Seguindo esse conceito, você consegue transformar seus projetos em layouts responsivos com o auxílio de media queries. Sua estrutura básica consiste em:
+
+    // @media (min-width ou max-width = tamanho da tela) { }
+
+Uma decisão que precisa ser tomada é de se usar max-width ou min-width. O max é ideal para quando temos um layout Desktop pronto e queremos adaptá-lo para dispositivos menores - vamos então definindo novas regras que se aplicam só aos dispositivos de no máximo certo tamanho. Já o min pode ser útil quando criamos um site só mobile ou começamos pelo mobile - nesse caso, é mais fácil ter um layout base e ir customizando para dispositivos maiores, com no mínimo certo tamanho.
+
+Você também pode criar uma media querie mais complexa utilizando operadores lógicos para incluir outros argumentos na condição estabelecida. Os operadores que podem ser usados são: not, and, e only mas neste curso vamos usar apenas o and. A sua tradução para português significa ”e”, tendo a função de ligar dois termos independentes ou mais. Com isso, fomos aumentando a estrutura da media querie e colocando outro argumento: o screen.
+
+    // @media screen and (min-width ou max-width = tamanho da tela) { }
+
+O screen é um media type, ou seja, um tipo de mídia. É outro tipo de característica comumente usada na declaração de media queries. Se você não especificar nenhum valor, ele irá utilizar o seu padrão que é “all” (para todos os tipos de mídia).
+
+Caso queira se aprofundar ainda mais nesse assunto, você pode dar uma olhadinha no artigo “Flexibilidade em páginas para dispositivos móveis com media queries” (https://www.alura.com.br/artigos/flexibilidade-em-paginas-para-dispositivos-moveis-com-media-queries?_gl=1*txl3ls*_ga*MTQ2NDkzNTA0LjE2OTA2Njg4Njc.*_ga_1EPWSW3PCS*MTcwNTI3NzIzOC4zMi4xLjE3MDUyNzg5OTcuMC4wLjA.*_fplc*OWZpdUtGMXBrRjQ5WkVPV1Y3cGFYYlRtQUIxRndtaWRZeW1Ra0oxUGtWdXlLMVh4T2pmUEJLN3FRc3JhR3BSRU9NMFNuU2N3U2N5bTlZUmV2OEJTQ1M3ZkNvZU8yek5OQW14RTJaSlIxS1lpVWZQTyUyRlZHaVZXOUNjMSUyRkR3QSUzRCUzRA..).
+

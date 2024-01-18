@@ -1,0 +1,11 @@
+Para saber mais: aprofundando no CSS
+
+No nosso projeto nos esbarramos nas pseudo-classes :hover e :checked, mas será que só existem essas? A resposta é não! Então, vamos conhecer outras maneiras de customizar seu projeto?
+
+Repare que todas elas têm algo em comum: começam com dois pontos. Também temos algo no nosso código que começa assim e não citamos até agora: o :root. Afinal, ele também é uma pseudo-classe? Apesar de ter um intuito diferente das outras (de se manifestar de acordo com alguma interação ou condição), ele é considerado sim uma pseudo-classe. Você pode aprender mais sobre pseudo-classes no MDN Web Docs.
+
+Também ao editar os inputs da página usamos outra coisa com estrutura semelhante: o ::placeholder. Mesmo que comece com dois pontos (e dessa vez repetidos) ele é um pseudo-elemento, uma palavra-chave adicionada a um seletor que especifica uma parte do elemento selecionado. No MDN Web Docs você também consegue encontrar mais sobre esse assunto.
+
+Durante todo o desenvolvimento do projeto, utilizamos seletores de classes para selecionar onde deveria ser estilizado, mas também há seletores por outras características como:
+
+Para construir as interações do menu, nossos ajudantes foram os combinadores, que auxiliam alcançar os elementos necessários dentro do conjunto de elementos do código. Vamos reforçar nosso conhecimento sobre eles?

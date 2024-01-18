@@ -1,0 +1,7 @@
+Para saber mais: layouts responsivos
+
+Estamos, juntos, construindo um projeto completo com a metodologia mobile-first. Nessa aula já começamos a transformar nosso projeto na versão do tablet e na próxima vamos além: transformar essa aplicação na versão desktop. Que tal ver o ponto de vista de uma desenvolvedora front-end aqui da Alura sobre layouts responsivos? Confira o vídeo "O que é um site responsivo? #HipstersPontoDicas" em que a Carol Santos nos explica com exemplos sobre esse tópico:
+
+link do vídeo: https://www.youtube.com/watch?v=yb6_tfdEi5A
+
+Layouts responsivos não é um tópico somente sobre front-end, podemos ver no artigo “Por que um design responsivo é importante para potencializar seu marketing” (https://www.alura.com.br/artigos/por-que-um-design-responsivo-e-importante-para-potencializar-seu-marketing?_gl=1*gvsetz*_ga*MTQ2NDkzNTA0LjE2OTA2Njg4Njc.*_ga_1EPWSW3PCS*MTcwNTQ1OTQ5MS4zOC4xLjE3MDU0NTk4OTQuMC4wLjA.*_fplc*VFlScGRsOVZEUmVVWmxZVUcySFVrcUY2d0xEd25nUlRTY2FGM2hORkNiNWFqSTkxSyUyRmJpS1FMNFZzem55QzJ3NTlBbGVidERRanFFTXloQ2VDUnFTemRKSE56NzdSUjhVaThsQjIwZXNJb08zaElNdmtsZG54dzN3eEE4ekElM0QlM0Q.) do instrutor Mario Souto pode trazer outras visões sobre essa abordagem mas agora no marketing. Interessante, né?

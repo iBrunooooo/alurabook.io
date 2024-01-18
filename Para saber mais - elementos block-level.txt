@@ -1,0 +1,4 @@
+Para saber mais: elementos block-level
+
+Até agora vimos vários elementos que compõem o nosso código HTML como o <header>, <section> e <footer>. Estes elementos são chamados de elementos block-level, mas também existem outros que não foram vistos ainda. Você pode consultar uma lista feita pela instrutora Beatriz Moura e o desenvolvedor Matheus Henrique no artigo “O que é o HTML e suas tags? Parte 3: elementos block-level” (https://www.alura.com.br/artigos/html-tags-elementos-block-level?utm_source=gnarus&utm_medium=timeline&_gl=1*5taniy*_ga*MTQ2NDkzNTA0LjE2OTA2Njg4Njc.*_ga_1EPWSW3PCS*MTcwNTI3NzIzOC4zMi4xLjE3MDUyNzg0OTkuMC4wLjA.*_fplc*OWZpdUtGMXBrRjQ5WkVPV1Y3cGFYYlRtQUIxRndtaWRZeW1Ra0oxUGtWdXlLMVh4T2pmUEJLN3FRc3JhR3BSRU9NMFNuU2N3U2N5bTlZUmV2OEJTQ1M3ZkNvZU8yek5OQW14RTJaSlIxS1lpVWZQTyUyRlZHaVZXOUNjMSUyRkR3QSUzRCUzRA..) para conhecer e compreender melhor sobre os que já foram vistos.
+
